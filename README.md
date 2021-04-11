@@ -1,8 +1,8 @@
 # VTK-Shading-Clipping-Widget-Rendering
 
-Author: Zihao
-
 UAlberta Multimedia Program, MM804 Assignments. 
+
+Author: Zihao
 
 
 ## VTK Shading
@@ -35,4 +35,4 @@ How to run the codes:
 
 Place the [CT dataset](https://drive.google.com/file/d/14VND3RJMJMJvvEzwRo01SNsPTZb2wttp/view?usp=sharing) in the same directory, and simply run:
 
-```python ex_clipcow.py -i model_path```
+```python image-plane-widget.py```
